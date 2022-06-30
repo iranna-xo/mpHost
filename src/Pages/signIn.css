@@ -1,0 +1,42 @@
+body {
+  background-image:url("https://ce98489b35507dd72246-e71d339cc5801c4f3e728130684b62ef.ssl.cf1.rackcdn.com/1456755749442treesgrowingoncoins1.jpeg"); ;
+ background-size: cover;
+}
+h1{
+    text-align: center;
+    text-decoration: solid;
+    text-decoration-color: azure;
+    font-size: 60px;
+}
+.qw{
+    text-align: center;
+  
+
+}
+.ee{
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+    margin: 10px;
+    
+}
+button{
+    padding: 5px 10px 5px 10px;
+    font-size: medium;
+    border-radius: 6px;
+    text-align: center;
+    margin: 10px;
+
+}
+
+input{
+   padding: 5px 40px 5px 10px;
+   margin: 5px 40px 5px 30px;
+   border-radius: 6px;
+
+
+
+    font-size: medium;  
+    padding-block-end: 10px;
+}
+
+
