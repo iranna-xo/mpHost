@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iranna-xo.in/ChitFunds/static/css/main.c0c0ed92.chunk.css",
+    "main.js": "/iranna-xo.in/ChitFunds/static/js/main.0bb9a7c3.chunk.js",
+    "main.js.map": "/iranna-xo.in/ChitFunds/static/js/main.0bb9a7c3.chunk.js.map",
+    "runtime-main.js": "/iranna-xo.in/ChitFunds/static/js/runtime-main.7c66d662.js",
+    "runtime-main.js.map": "/iranna-xo.in/ChitFunds/static/js/runtime-main.7c66d662.js.map",
+    "static/js/2.e02b0312.chunk.js": "/iranna-xo.in/ChitFunds/static/js/2.e02b0312.chunk.js",
+    "static/js/2.e02b0312.chunk.js.map": "/iranna-xo.in/ChitFunds/static/js/2.e02b0312.chunk.js.map",
+    "static/js/3.bc99f0f5.chunk.js": "/iranna-xo.in/ChitFunds/static/js/3.bc99f0f5.chunk.js",
+    "static/js/3.bc99f0f5.chunk.js.map": "/iranna-xo.in/ChitFunds/static/js/3.bc99f0f5.chunk.js.map",
+    "index.html": "/iranna-xo.in/ChitFunds/index.html",
+    "static/css/main.c0c0ed92.chunk.css.map": "/iranna-xo.in/ChitFunds/static/css/main.c0c0ed92.chunk.css.map",
+    "static/js/2.e02b0312.chunk.js.LICENSE.txt": "/iranna-xo.in/ChitFunds/static/js/2.e02b0312.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c66d662.js",
+    "static/js/2.e02b0312.chunk.js",
+    "static/css/main.c0c0ed92.chunk.css",
+    "static/js/main.0bb9a7c3.chunk.js"
+  ]
+}
